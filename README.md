@@ -1,1 +1,2 @@
-Ospravedlňujem sa, ale pripravujem sa na zajtrajšiu súťaž BSEC, nestíhal som dorobiť zadanie načas.
+# MPC-MAP-Student
+Template for student's project in MPC-MAP Course
