@@ -7,8 +7,7 @@ target = get_target(public_vars.estimated_pose, public_vars.path);
 
 
 % II. Compute motion vector
-
-public_vars.motion_vector = [0.5, -0.5];
+public_vars.motion_vector = plan_motion_moCap(read_only_vars.mocap_pose, public_vars.path);
 
 
 end
