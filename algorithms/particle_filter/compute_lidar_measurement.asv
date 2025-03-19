@@ -1,5 +1,5 @@
 function [measurement] = compute_lidar_measurement(map, pose, lidar_config)
-%COMPUTE_MEASUREMENTS Compute distances of particles to walls using lidar
+%COMPUTE_MEASUREMENTS Compute distance of particle to 
     % Extract pose components
     x = pose(1);
     y = pose(2);

@@ -1,0 +1,8 @@
+function [new_pose] = predict_pose(old_pose, motion_vector, read_only_vars)
+%PREDICT_POSE Return the new pose from old_pose and motion vector
+
+read_only_vars.
+new_pose = old_pose;
+
+end
+
